@@ -14,4 +14,4 @@ function app()
      document.querySelector('#Tax').innerHTML=`$${Tax.toFixed(2)}`
      document.querySelector('#Total').innerHTML=`$${GrandTotal.toFixed(2)}`
 }
-     document.querySelector('#calc-Button').addEventListener('click',app)
+     document.querySelector('#cal-btn').addEventListener('click',app)
