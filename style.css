@@ -1,0 +1,48 @@
+html {
+    font-family: sans-serif;
+    
+}
+
+
+
+header {
+    text-align: center;
+    background-color: rgb(179, 181, 185);
+}
+footer{
+
+    
+color: blue;
+    
+    
+      
+}
+body{
+    text-align: center;
+}
+
+input {
+    height: 30px;
+    border: 1px rgb(50, 4, 253) solid;
+    border-radius: 10px;
+}
+
+#Total {
+    font-size: 24px;
+    color: rgb(192, 59, 121);
+}
+
+#calc-Button {
+    display: inline-block;
+    margin: 0 auto;
+    text-align: center;
+    padding: 20px;
+    font-size: 25px;
+    border: 1px rgb(25, 10, 233) solid;
+    border-radius: 40px;
+}
+
+#calc-Button {
+    cursor: pointer;
+    background-color: rgb(140, 231, 231);
+}
