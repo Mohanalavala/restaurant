@@ -29,7 +29,8 @@ input {
 
 #Total {
     font-size: 24px;
-    color: rgb(192, 59, 121);
+    font-weight: bold;
+    color: rgb(44, 39, 41);
 }
 
 #cal-btn {
@@ -38,7 +39,7 @@ input {
     text-align: center;
     padding: 20px;
     font-size: 25px;
-    border: 1px rgb(25, 10, 233) solid;
+    border: 1px rgb(25, 10, 233) crimson;
     border-radius: 40px;
 }
 
@@ -46,3 +47,13 @@ input {
     cursor: pointer;
     background-color: rgb(140, 231, 231);
 }
+
+hr {
+    display: block;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: double;
+    border-width: 2px;
+  }
